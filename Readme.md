@@ -1,0 +1,1 @@
+This project is a basic dive into understanding the rust programming language.
